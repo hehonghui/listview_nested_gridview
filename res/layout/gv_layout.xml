@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.listview_nested_gv.widgets.MGridView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/my_gridview"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="20dp"
+    android:background="#aaaaaa"
+    android:clickable="false"
+    android:focusable="false"
+    android:horizontalSpacing="10dp"
+    android:numColumns="3"
+    android:padding="10dp"
+    android:verticalSpacing="5dp" />
